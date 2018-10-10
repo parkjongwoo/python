@@ -9,6 +9,10 @@ def docstringtest(a,b):
 
 print(1+1)
 
+# dic test
+dictest = []
+if dictest.get(1):
+    print(dictest[1])
 #list형: 순서있음(index값에 의한 참조가능). 변경 가능.
 list_a = [1,2,3,4,5]
 list_b = [3,4,5,6,7]
